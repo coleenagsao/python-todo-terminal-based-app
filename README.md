@@ -30,8 +30,6 @@ To install the required packages, run the following command in your terminal:
 - **Add, Edit Task**. the format of year, date, month must be yyyy, mm, dd, respectively. Prompts for month and day shall be displayed accordingly if not followed.
 - **Edit Task**. Only the deadline will be editable. Other attributes such as name and description will no longer be subject to change.
 
-## Screenshots
-
 ## Authors
 - Agsao, Coleen Therese
 - Dollesin, Samantha Shane
